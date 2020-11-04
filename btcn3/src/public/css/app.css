@@ -1,0 +1,32 @@
+body {
+  width: 1000px; }
+
+#left {
+  width: 300px;
+  float: left; }
+
+#right {
+  width: 700px;
+  float: right; }
+
+#left #d1 {
+  width: 100px;
+  float: left;
+  font-size: large; }
+
+#left #d2 {
+  width: 100px;
+  float: left; }
+
+#right #d3 {
+  width: 80px;
+  font-size: large;
+  float: left; }
+
+#right #d4 {
+  width: 620px;
+  font-size: large;
+  float: left; }
+
+#right #d3 #button1 {
+  margin-top: 15px; }
